@@ -1,4 +1,5 @@
 # LaptopOpenVideoHardwareStub
+![Sizes](https://user-images.githubusercontent.com/51802145/127904716-f257590a-13ee-435a-822d-5aa810098ffa.gif)
 
 This is an experimental attempt of development crowdfunding and crowdsourcing.
 Is it possible to make such a complicated thing from scratch?
